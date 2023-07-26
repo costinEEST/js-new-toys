@@ -1,0 +1,17 @@
+{
+  "name": "js-new-toys",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "browser": "open http://localhost:3009",
+    "dev": "vite --port 3009  & $npm_execpath browser",
+    "build": "tsc && vite build",
+    "kill": "pnpm dlx kill-port 3009",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6",
+    "vite": "^4.4.7"
+  }
+}
