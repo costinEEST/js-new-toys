@@ -1,0 +1,1 @@
+- https://github.com/supabase-community/vercel-ai-chatbot/blob/main/lib/utils.ts#L14
