@@ -7,3 +7,4 @@
 # Chapters
 
 - [Chapter 04: Classes](./src/04-classes)
+- [Chapter 05: New Object features](./src/05-new-object-features)
